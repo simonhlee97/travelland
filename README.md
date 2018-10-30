@@ -1,4 +1,4 @@
-##### A landing page for a fictitious travel agency
+#### A landing page for a fictitious travel agency
 
 After git clone or unzipping the zip file, download dependencies by running:
 ```
